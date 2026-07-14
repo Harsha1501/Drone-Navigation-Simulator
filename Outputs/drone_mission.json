@@ -1,0 +1,7 @@
+{
+    "drone": "Drone-01",
+    "waypoints": 4,
+    "distance": 10,
+    "obstacles": 12,
+    "status": "Mission Complete"
+}
